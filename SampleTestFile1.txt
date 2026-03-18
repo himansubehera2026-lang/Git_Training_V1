@@ -1,3 +1,4 @@
 This is a Sample File 1.
 
 Test and Reset Coommit 1 
+This is comparison lecture

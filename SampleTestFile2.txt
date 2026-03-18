@@ -1,2 +1,3 @@
 GIT REVERT COMMIT 1
 This is a Sample File 2 
+This is comparison lecture, Change in file 2
