@@ -1,1 +1,2 @@
+GIT REVERT COMMIT 1
 This is a Sample File 2 
