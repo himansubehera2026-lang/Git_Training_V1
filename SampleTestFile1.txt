@@ -1,3 +1,4 @@
+GIT COMMIT REVERT 2
 This is a Sample File 1.
 
 Test and Reset Coommit 1 
